@@ -9,3 +9,4 @@ add_executable(791A-Bear-and-Big-Brother Codeforces/791A-Bear-and-Big-Brother.cp
         Codeforces/546A-Soldier-and-Bananas.cpp)
 add_executable(546A-Soldier-and-Bananas Codeforces/546A-Soldier-and-Bananas.cpp)
 add_executable(977A-Wrong-Subtraction Codeforces/977A-Wrong-Subtraction.cpp)
+add_executable(Sorting Codeforces/Sorting.cpp)

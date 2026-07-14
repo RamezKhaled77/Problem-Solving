@@ -3,6 +3,9 @@
 using namespace std;
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
     int arr[5][5], oneRow = 0, oneCol = 0;
 
     for (int i=0; i<5; i++) {
