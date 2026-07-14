@@ -8,3 +8,4 @@ add_executable(bear Codeforces/791A-Bear-and-Big-Brother.cpp)
 add_executable(791A-Bear-and-Big-Brother Codeforces/791A-Bear-and-Big-Brother.cpp
         Codeforces/546A-Soldier-and-Bananas.cpp)
 add_executable(546A-Soldier-and-Bananas Codeforces/546A-Soldier-and-Bananas.cpp)
+add_executable(977A-Wrong-Subtraction Codeforces/977A-Wrong-Subtraction.cpp)
