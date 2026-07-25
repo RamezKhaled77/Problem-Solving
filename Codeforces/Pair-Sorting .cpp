@@ -1,6 +1,4 @@
-//
-// Created by ramez on 25‏/7‏/2026.
-//
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
