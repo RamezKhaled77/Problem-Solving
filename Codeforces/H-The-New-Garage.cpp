@@ -22,6 +22,7 @@ int main() {
 
     stack<int> garage;
     int next_car = 1;
+
     for (int i = 0; i < n; i++) {
         int required_car = target_exit[i];
 
